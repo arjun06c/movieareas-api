@@ -18,7 +18,3 @@ provide a moive api for reactjs app
 1.SQL -(MySQL,MariaDb,Postgresql)
 2.NoSQL -(MongoDb,Mongoose)
 
-arjunct23_db_user
-iTpEEdRaOIa30mwY
-
-mongodb+srv://arjunct23_db_user:iTpEEdRaOIa30mwY@cluster0.9ywzo4t.mongodb.net/?appName=Cluster0
